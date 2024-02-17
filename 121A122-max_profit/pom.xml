@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId><![CDATA[121&122-max_profit]]></artifactId>
+    <artifactId>121A122-max_profit</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

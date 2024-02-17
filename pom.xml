@@ -7,11 +7,23 @@
     <groupId>org.example</groupId>
     <artifactId>leetcode</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>080-remove_duplicates</module>
+        <module>189-rotate_array</module>
+        <module>121A122-max_profit</module>
+        <module>055A045-jump_game</module>
+        <module>274-h_index</module>
+        <module>380-randomized_set</module>
+        <module>238-product_except_self</module>
+        <module>134-gas_station</module>
+        <module>135-candy</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    
+
 </project>

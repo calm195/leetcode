@@ -5,17 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/055A045-jump_game/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/055A045-jump_game/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/official/OfficialSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/121A122-max_profit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/121A122-max_profit/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/134-gas_station/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/134-gas_station/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189-rotate_array/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189-rotate_array/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189-rotate_array/src/main/java/official/OfficialSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-product_except_self/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-product_except_self/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274-h_index/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274-h_index/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/380-randomized_set/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/380-randomized_set/src/main/java/RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bc3KX3cTbqhnKWNDVQizrX7aO5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RandomizedSet.executor": "Run",
+    "Application.Solution (1).executor": "Run",
+    "Application.Solution (2).executor": "Run",
+    "Application.Solution (3).executor": "Run",
+    "Application.Solution (4).executor": "Run",
+    "Application.Solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomizedSet" />
+      <module name="380-randomized_set" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="134-gas_station" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="055A045-jump_game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="274-h_index" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="238-product_except_self" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.RandomizedSet" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -25,11 +142,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706409490101</updated>
-      <workItem from="1706409491268" duration="3000" />
+      <workItem from="1706409491268" duration="9487000" />
+      <workItem from="1706500483889" duration="894000" />
+      <workItem from="1706516219374" duration="600000" />
+      <workItem from="1706544892556" duration="86000" />
+      <workItem from="1706544996035" duration="2580000" />
+      <workItem from="1706547871945" duration="1119000" />
+      <workItem from="1706595216270" duration="7560000" />
+      <workItem from="1706781137421" duration="821000" />
+      <workItem from="1707188640555" duration="1458000" />
+      <workItem from="1707194215544" duration="600000" />
+      <workItem from="1707831673285" duration="559000" />
+      <workItem from="1707832250621" duration="2537000" />
+      <workItem from="1707889328996" duration="3268000" />
+      <workItem from="1707899169037" duration="3615000" />
+      <workItem from="1707909522424" duration="10923000" />
+      <workItem from="1708008092029" duration="1020000" />
+      <workItem from="1708070633788" duration="5673000" />
+      <workItem from="1708078338917" duration="135000" />
+      <workItem from="1708078496144" duration="3631000" />
+      <workItem from="1708135240488" duration="1245000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

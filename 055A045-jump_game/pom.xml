@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId><![CDATA[55&45-jump_game]]></artifactId>
+    <artifactId>055A045-jump_game</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
