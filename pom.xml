@@ -20,6 +20,7 @@
         <module>P135-candy</module>
         <module>P136-single_number</module>
         <module>P137-single_number2</module>
+        <module>P260-single_number3</module>
     </modules>
 
     <properties>
