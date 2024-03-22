@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>080-remove_duplicates</artifactId>
+    <artifactId>P134-gas_station</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

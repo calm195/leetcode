@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>121A122-max_profit</artifactId>
+    <artifactId>P380-randomized_set</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

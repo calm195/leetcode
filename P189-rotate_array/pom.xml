@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>134-gas_station</artifactId>
+    <artifactId>P189-rotate_array</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

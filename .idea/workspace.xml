@@ -4,31 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/055A045-jump_game/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/055A045-jump_game/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/official/OfficialSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/121A122-max_profit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/121A122-max_profit/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134-gas_station/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134-gas_station/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189-rotate_array/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189-rotate_array/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189-rotate_array/src/main/java/official/OfficialSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/238-product_except_self/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/238-product_except_self/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274-h_index/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274-h_index/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/380-randomized_set/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/380-randomized_set/src/main/java/RandomizedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="111">
+      <change afterPath="$PROJECT_DIR$/P121A122-max_profit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P135-candy/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P135-candy/src/main/java/official/OfficialSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P136-simgle_number/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P238-product_except_self/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P380-randomized_set/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055A045-jump_game/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P189-rotate_array/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055A045-jump_game/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P055A045-jump_game/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/080-remove_duplicates/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P080-remove_duplicates/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P080-remove_duplicates/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/080-remove_duplicates/src/main/java/official/OfficialSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P080-remove_duplicates/src/main/java/official/OfficialSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/121A122-max_profit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P055A045-jump_game/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/121A122-max_profit/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P121A122-max_profit/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/134-gas_station/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P136-simgle_number/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/134-gas_station/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P134-gas_station/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/135-candy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P135-candy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/135-candy/src/main/java/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate_array/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P134-gas_station/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate_array/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P189-rotate_array/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate_array/src/main/java/official/OfficialSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P189-rotate_array/src/main/java/official/OfficialSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/238-product_except_self/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/238-product_except_self/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P238-product_except_self/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/274-h_index/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P274-h_index/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/274-h_index/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/P274-h_index/src/main/java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/380-randomized_set/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/380-randomized_set/src/main/java/RandomizedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/P380-randomized_set/src/main/java/RandomizedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,75 +60,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.RandomizedSet.executor": "Run",
-    "Application.Solution (1).executor": "Run",
-    "Application.Solution (2).executor": "Run",
-    "Application.Solution (3).executor": "Run",
-    "Application.Solution (4).executor": "Run",
-    "Application.Solution.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RandomizedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Solution (1)">
+}</component>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomizedSet" />
-      <module name="380-randomized_set" />
+      <module name="P380-randomized_set" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="134-gas_station" />
+      <module name="P134-gas_station" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="P135-candy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="055A045-jump_game" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="274-h_index" />
+      <module name="P136-simgle_number" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="238-product_except_self" />
+      <module name="P238-product_except_self" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="P080-remove_duplicates" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="P080-remove_duplicates" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.RandomizedSet" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,11 +180,54 @@
       <workItem from="1708078338917" duration="135000" />
       <workItem from="1708078496144" duration="3631000" />
       <workItem from="1708135240488" duration="1245000" />
+      <workItem from="1708136674987" duration="556000" />
+      <workItem from="1708224509230" duration="3074000" />
+      <workItem from="1708252365432" duration="629000" />
+      <workItem from="1708269709053" duration="888000" />
+      <workItem from="1708679538717" duration="818000" />
+      <workItem from="1708686334651" duration="1059000" />
+      <workItem from="1708777955144" duration="72000" />
+      <workItem from="1708778047569" duration="600000" />
+      <workItem from="1708834914954" duration="3291000" />
+      <workItem from="1709016827225" duration="1277000" />
+      <workItem from="1709089665650" duration="136000" />
+      <workItem from="1709090124069" duration="2745000" />
+      <workItem from="1709551810876" duration="812000" />
+      <workItem from="1709615684852" duration="1157000" />
+      <workItem from="1709710388333" duration="6000" />
+      <workItem from="1710733290152" duration="666000" />
+      <workItem from="1710750492525" duration="30000" />
+      <workItem from="1711002483870" duration="5329000" />
+      <workItem from="1711115790762" duration="3282000" />
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <option name="closed" value="true" />
+      <created>1708137150711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708137150711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

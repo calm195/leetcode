@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>055A045-jump_game</artifactId>
+    <artifactId>P136-single_number</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
