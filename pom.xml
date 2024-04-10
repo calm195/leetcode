@@ -21,6 +21,12 @@
         <module>P136-single_number</module>
         <module>P137-single_number2</module>
         <module>P260-single_number3</module>
+        <module>P049-group_anagrams</module>
+        <module>P128-longest_consecutive_sequence</module>
+        <module>P283-move_zeros</module>
+        <module>P011-container_with_most_water</module>
+        <module>P042-trapping_rain_water</module>
+        <module>P015-ThreeSum</module>
     </modules>
 
     <properties>

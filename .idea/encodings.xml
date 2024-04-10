@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/P011-container_with_most_water/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P011-container_with_most_water/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P015-ThreeSum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P015-ThreeSum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P042-trapping_rain_water/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P042-trapping_rain_water/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P049-group_anagrams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P049-group_anagrams/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P055A045-jump_game/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P055A045-jump_game/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P080-remove_duplicates/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P080-remove_duplicates/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P121A122-max_profit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P121A122-max_profit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P128-longest_consecutive_sequence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P128-longest_consecutive_sequence/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P134-gas_station/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P134-gas_station/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P135-candy/src/main/java" charset="UTF-8" />
@@ -23,6 +33,8 @@
     <file url="file://$PROJECT_DIR$/P260-single_number3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P274-h_index/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P274-h_index/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P283-move_zeros/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P283-move_zeros/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P380-randomized_set/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P380-randomized_set/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

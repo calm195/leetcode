@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/P137-single_number2/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P137-single_number2/src/main/java/official/Solution.java" afterDir="false" />
+    <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="完成137, 启动260">
+      <change afterPath="$PROJECT_DIR$/P011-container_with_most_water/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P011-container_with_most_water/src/main/java/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P015-ThreeSum/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P015-ThreeSum/src/main/java/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/Failure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/Official.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P049-group_anagrams/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P049-group_anagrams/src/main/java/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P128-longest_consecutive_sequence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P128-longest_consecutive_sequence/src/main/java/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P283-move_zeros/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P283-move_zeros/src/main/java/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P283-move_zeros/src/main/java/official/MoveZeros2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P260-single_number3/src/main/java/SingleNumber3.java" beforeDir="false" afterPath="$PROJECT_DIR$/P260-single_number3/src/main/java/SingleNumber3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +40,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;calm195&quot;
+  }
+}</component>
   <component name="GitLabMergeRequestFiltersHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPENED&quot;,
@@ -54,6 +76,12 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:calm195/leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;dbb29511-43eb-4626-9d44-83f5b6f01c8a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -66,12 +94,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomizedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution (3).executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution (4).executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -90,56 +124,57 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="P134-gas_station" />
+  <component name="RunManager" selected="Application.TrappingRainWater">
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContainerWithMostWater" />
+      <module name="P011-container_with_most_water" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="P135-candy" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
+      <module name="P049-group_anagrams" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="P136-single_number" />
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence" />
+      <module name="P128-longest_consecutive_sequence" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="P137-single_number2" />
+    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeros" />
+      <module name="P283-move_zeros" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="P238-product_except_self" />
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrappingRainWater" />
+      <module name="P042-trapping_rain_water" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.ContainerWithMostWater" />
+        <item itemvalue="Application.MoveZeros" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
+        <item itemvalue="Application.GroupAnagrams" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -196,7 +231,21 @@
       <workItem from="1711129761802" duration="136000" />
       <workItem from="1711130037669" duration="949000" />
       <workItem from="1711131022428" duration="594000" />
-      <workItem from="1711131635924" duration="1384000" />
+      <workItem from="1711131635924" duration="2406000" />
+      <workItem from="1711236679979" duration="2463000" />
+      <workItem from="1711266168365" duration="3477000" />
+      <workItem from="1711942396725" duration="2025000" />
+      <workItem from="1711977150979" duration="1290000" />
+      <workItem from="1712317117167" duration="1213000" />
+      <workItem from="1712319148215" duration="4714000" />
+      <workItem from="1712372453980" duration="15110000" />
+      <workItem from="1712489377634" duration="2185000" />
+      <workItem from="1712494252028" duration="5535000" />
+      <workItem from="1712560718507" duration="3503000" />
+      <workItem from="1712617837749" duration="8567000" />
+      <workItem from="1712642796963" duration="1717000" />
+      <workItem from="1712658827355" duration="1714000" />
+      <workItem from="1712733915654" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />
@@ -238,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711129802847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="完成137, 启动260">
+      <option name="closed" value="true" />
+      <created>1711133970183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711133970183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +316,8 @@
     <MESSAGE value="111" />
     <MESSAGE value="调整模块名，并且解决candy" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="完成137, 启动260" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成137, 启动260" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
