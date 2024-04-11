@@ -27,6 +27,8 @@
         <module>P011-container_with_most_water</module>
         <module>P042-trapping_rain_water</module>
         <module>P015-ThreeSum</module>
+        <module>P438-find_all_a_anagrams_in_a_string</module>
+        <module>P560-subarray_sum_equals_k</module>
     </modules>
 
     <properties>

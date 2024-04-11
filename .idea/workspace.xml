@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="完成137, 启动260">
-      <change afterPath="$PROJECT_DIR$/P011-container_with_most_water/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P011-container_with_most_water/src/main/java/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P015-ThreeSum/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P015-ThreeSum/src/main/java/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/Failure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/Official.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P042-trapping_rain_water/src/main/java/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P049-group_anagrams/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P049-group_anagrams/src/main/java/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P128-longest_consecutive_sequence/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P128-longest_consecutive_sequence/src/main/java/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P283-move_zeros/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P283-move_zeros/src/main/java/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P283-move_zeros/src/main/java/official/MoveZeros2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P015-ThreeSum/src/main/java/Failure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P438-find_all_a_anagrams_in_a_string/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P438-find_all_a_anagrams_in_a_string/src/main/java/FindAllAnagramsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P560-subarray_sum_equals_k/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P560-subarray_sum_equals_k/src/main/java/SubArraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P260-single_number3/src/main/java/SingleNumber3.java" beforeDir="false" afterPath="$PROJECT_DIR$/P260-single_number3/src/main/java/SingleNumber3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P015-ThreeSum/src/main/java/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/P015-ThreeSum/src/main/java/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,44 +77,50 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2bc3KX3cTbqhnKWNDVQizrX7aO5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomizedSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumber3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ContainerWithMostWater.executor": "Run",
+    "Application.FindAllAnagramsInAString.executor": "Run",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.RandomizedSet.executor": "Run",
+    "Application.SingleNumber3.executor": "Run",
+    "Application.Solution (1).executor": "Run",
+    "Application.Solution (2).executor": "Run",
+    "Application.Solution (3).executor": "Run",
+    "Application.Solution (4).executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SubArraySumEqualsK.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TrappingRainWater.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TrappingRainWater">
+}]]></component>
+  <component name="RunManager" selected="Application.SubArraySumEqualsK">
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContainerWithMostWater" />
       <module name="P011-container_with_most_water" />
@@ -132,23 +128,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
-      <module name="P049-group_anagrams" />
+    <configuration name="FindAllAnagramsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsInAString" />
+      <module name="P438-find_all_a_anagrams_in_a_string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence" />
-      <module name="P128-longest_consecutive_sequence" />
+    <configuration name="SubArraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubArraySumEqualsK" />
+      <module name="P560-subarray_sum_equals_k" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoveZeros" />
-      <module name="P283-move_zeros" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
+      <module name="P015-ThreeSum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraySumEqualsK" />
+        <item itemvalue="Application.FindAllAnagramsInAString" />
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.MoveZeros" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.GroupAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +241,9 @@
       <workItem from="1712617837749" duration="8567000" />
       <workItem from="1712642796963" duration="1717000" />
       <workItem from="1712658827355" duration="1714000" />
-      <workItem from="1712733915654" duration="698000" />
+      <workItem from="1712733915654" duration="15291000" />
+      <workItem from="1712811759557" duration="756000" />
+      <workItem from="1712820805418" duration="3822000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />
@@ -313,6 +311,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="111" />
     <MESSAGE value="调整模块名，并且解决candy" />
     <MESSAGE value="test" />
