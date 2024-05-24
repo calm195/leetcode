@@ -2,7 +2,7 @@
  * @Author: Chrissy 1804659599@qq.com
  * @Date: 2024-05-23 10:56:36
  * @LastEditors: Chrissy 1804659599@qq.com
- * @LastEditTime: 2024-05-23 11:02:20
+ * @LastEditTime: 2024-05-23 11:07:57
  * @Description: to be added
  */
 public class Main {
@@ -12,7 +12,7 @@ public class Main {
             {2, 1, 1},
             {1, 1, 0},
             {0, 1, 1}
-        }
+        };
         System.out.println(solution.orangesRotting(grid)); 
     }
 }
