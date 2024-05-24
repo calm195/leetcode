@@ -2,7 +2,7 @@
  * @Author: Chrissy 1804659599@qq.com
  * @Date: 2024-05-23 10:56:56
  * @LastEditors: Chrissy 1804659599@qq.com
- * @LastEditTime: 2024-05-24 11:30:24
+ * @LastEditTime: 2024-05-24 11:51:15
  * @Description: to be added
  */
 
@@ -27,11 +27,11 @@ public class Solution {
         }
 
         Point upPoint(){
-            return new Point(this.col, this.row + 1);
+            return new Point(this.col, this.row - 1);
         }
 
         Point downPoint(){
-            return new Point(this.col, this.row - 1);
+            return new Point(this.col, this.row + 1);
         }
     }
 
@@ -78,12 +78,31 @@ public class Solution {
     private void oneDFS(int[][] grid, Point point, Stack<Point> temPoints) {
         int col = point.col;
         int row = point.row;
-        if (point.col - 1 < 0) {
-            if (isRightRotted(grid, col, row)){
-                grid[point.col + 1][point.row] = '2';
+        if (col - 1 >= 0) {
+            if (isLeftRotted(grid, col-1, row)){
+                grid[col - 1][row] = 2;
+                temPoints.push(point.leftPoint());
+            }
+        }
+        if (col + 1 < grid.length) {
+            if (isRightRotted(grid, col + 1, row)) {
+                grid[col + 1][row] = 2;
                 temPoints.push(point.rightPoint());
             }
         }
+        if (row - 1 >= 0) {
+            if (isUpRotted(grid, col, row - 1)){
+                grid[col][row - 1] = 2;
+                temPoints.push(point.upPoint());
+            }
+        }
+        if (row + 1 < grid[0].length) {
+            if (isDownRotted(grid, col, row  + 1)) {
+                grid[col][row + 1] = 2;
+                temPoints.push(point.downPoint());
+            }
+        }
+ 
     }
 
     private boolean isRightRotted(int[][]grid, int col, int row){
