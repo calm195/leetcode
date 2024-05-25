@@ -29,6 +29,9 @@
         <module>P015-ThreeSum</module>
         <module>P438-find_all_a_anagrams_in_a_string</module>
         <module>P560-subarray_sum_equals_k</module>
+        <module>P200-number_of_island</module>
+        <module>P994-rotting_oranges</module>
+        <module>P207-course_schedule</module>
         <module>P073-set_matrix_zeroes</module>
         <module>P054-spiral_matrix</module>
     </modules>
