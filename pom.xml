@@ -34,6 +34,7 @@
         <module>P207-course_schedule</module>
         <module>P073-set_matrix_zeroes</module>
         <module>P054-spiral_matrix</module>
+        <module>P208-implement_trie_prefix_tree</module>
     </modules>
 
     <properties>
