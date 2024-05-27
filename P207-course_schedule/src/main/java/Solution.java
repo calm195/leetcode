@@ -2,62 +2,52 @@
  * @Author: Chrissy 1804659599@qq.com
  * @Date: 2024-05-24 15:00:04
  * @LastEditors: Chrissy 1804659599@qq.com
- * @LastEditTime: 2024-05-27 13:07:35
+ * @LastEditTime: 2024-05-27 17:47:53
  * @Description: to be added
  */
 
-import java.util.HashMap;
-import java.util.HashSet;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Solution {
-    HashMap<Integer, HashSet<Integer>> map;
-    boolean[] isVisited;
+    int[] isVisited;
+    boolean res = true;
+    List<List<Integer>> lists;
+    
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        map = new HashMap<>();
+        isVisited = new int[numCourses];
+        lists = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) {
-            map.put(i, new HashSet<>());
+            lists.add(new ArrayList<>());
         }
-        for (int i = 0; i < prerequisites.length; i++) {
-            map.get(prerequisites[i][0]).add(prerequisites[i][1]);
+        for (int[] is : prerequisites) {
+            lists.get(is[1]).add(is[0]);
         }
-        // printMap();
-        isVisited = new boolean[numCourses];
-        HashSet<Integer> historySet = new HashSet<>();
-        for (int i = 0; i < numCourses; i++) {
-            if (!isVisited[i]) {
-                int res = dfs(i, historySet);
-                if (res != -1 && !isVisited[res]) {
-                    return false;
+        //System.out.println(lists);
+
+        for (int i = 0; i < numCourses && res; i++) {
+            if (isVisited[i] == 0) {
+                dfs(i);
+            }
+        }
+        
+        return res;
+    }
+
+    private void dfs(int i){
+        isVisited[i] = 1;
+        for (int next : lists.get(i)) {
+            if (isVisited[next] == 0) {
+                dfs(next);
+                if (!res) {
+                    return;
                 }
-                historySet.clear(); 
+            }
+            else if (isVisited[next] == 1) {
+                res = false;
+                return;
             }
         }
-
-        return true;
-    }
-
-    int dfs(int i, HashSet<Integer> historySet){
-        if (historySet.contains(i)) {
-            isVisited[i] = false;
-            return i;
-        }
-        else {
-            isVisited[i] = true;
-        }
-        historySet.add(i);
-        for (int one : map.get(i)) {
-            int temp = dfs(one, historySet);
-            if (temp != -1) {
-                return temp;
-            }
-        }
-        historySet.remove(i);
-        return -1;
-    }
-
-    void printMap(){
-        for (Integer key: map.keySet()) {
-            System.out.println(key + ": " + map.get(key).toString());
-        }
+        isVisited[i] = 2;
     }
 }
