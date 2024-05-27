@@ -2,7 +2,7 @@
  * @Author: Chrissy 1804659599@qq.com
  * @Date: 2024-05-27 17:52:20
  * @LastEditors: Chrissy 1804659599@qq.com
- * @LastEditTime: 2024-05-27 20:41:52
+ * @LastEditTime: 2024-05-27 20:45:49
  * @Description: to be added
  */
 
@@ -10,6 +10,7 @@ import java.util.HashMap;
 
 public class Trie {
     private class Node {
+        @SuppressWarnings("unused")
         char data;
         HashMap<Character, Node> next;
         boolean isWord = false;
