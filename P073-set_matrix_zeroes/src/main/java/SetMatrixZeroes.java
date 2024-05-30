@@ -1,3 +1,10 @@
+/*
+ * @Author: Chrissy 1804659599@qq.com
+ * @Date: 2024-05-26 11:18:30
+ * @LastEditors: Chrissy 1804659599@qq.com
+ * @LastEditTime: 2024-05-29 16:23:02
+ * @Description: to be added
+ */
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -10,16 +17,20 @@ public class SetMatrixZeroes {
     public static void main(String[] args) {
         int[][] matrix = {
                 {
-                        0,0,0,5
-                }, {
-                4,3,1,4
-                }, {
-                0,1,1,4
-                }, {
-                1,2,1,3
-        }, {
-                0,0,1,1
-        }
+                        0, 0, 0, 5
+                },
+                {
+                        4, 3, 1, 4
+                },
+                {
+                        0, 1, 1, 4
+                },
+                {
+                        1, 2, 1, 3
+                },
+                {
+                        0, 0, 1, 1
+                }
         };
         SetMatrixZeroes test = new SetMatrixZeroes();
         test.setZeroes(matrix);
@@ -33,7 +44,7 @@ public class SetMatrixZeroes {
         Set<Integer> colSet = new HashSet<>();
         for (int i = 0; i < rowLength; i++) {
             for (int j = 0; j < colLength; j++) {
-                if (matrix[i][j] == 0){
+                if (matrix[i][j] == 0) {
                     rowSet.add(i);
                     colSet.add(j);
                 }
@@ -47,7 +58,7 @@ public class SetMatrixZeroes {
                 matrix[i][j] = 0;
             }
         }
-        for (int j: colSet) {
+        for (int j : colSet) {
             for (int i = 0; i < rowLength; i++) {
                 matrix[i][j] = 0;
             }
