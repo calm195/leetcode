@@ -37,6 +37,7 @@
         <module>P208-implement_trie_prefix_tree</module>
         <module>P169-majority_element</module>
         <module>P075-sort_colors</module>
+        <module>P763-partition_labels</module>
     </modules>
 
     <properties>
