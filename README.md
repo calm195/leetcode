@@ -41,6 +41,7 @@
    - [P045-jump game 2](https://leetcode.cn/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-100-liked)
    - [P134-gas station](https://leetcode.cn/problems/gas-station/description/)
    - [P135-candy](https://leetcode.cn/problems/candy/description/)
+   - [P763-partition labels](https://leetcode.cn/problems/partition-labels/description/?envType=study-plan-v2&envId=top-100-liked)
 3. 动态规划
    - [P121-best time to buy and sell stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/description/)
    - [P122-best time to buy and sell stock 2](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/)
