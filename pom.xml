@@ -38,6 +38,7 @@
         <module>P169-majority_element</module>
         <module>P075-sort_colors</module>
         <module>P763-partition_labels</module>
+        <module>P239-sliding_window_maximum</module>
     </modules>
 
     <properties>
