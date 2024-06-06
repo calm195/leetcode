@@ -39,6 +39,7 @@
         <module>P075-sort_colors</module>
         <module>P763-partition_labels</module>
         <module>P239-sliding_window_maximum</module>
+        <module>P098-validate_binary_search_tree</module>
     </modules>
 
     <properties>
