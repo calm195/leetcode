@@ -36,6 +36,7 @@
    - [P080-remove duplicates from sorted array 2](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/description/)
    - [P283-move zeros](https://leetcode.cn/problems/move-zeroes/description/?envType=study-plan-v2&envId=top-100-liked)
    - [P075-sort colors](https://leetcode.cn/problems/sort-colors/description/?envType=study-plan-v2&envId=top-100-liked)
+   - [P2516-take k of each character from left and right](https://leetcode-cn.com/problems/take-k-of-each-character-from-left-and-right/description/)
 2. 贪心
    - [P055-jump game](https://leetcode.cn/problems/jump-game/description/?envType=study-plan-v2&envId=top-100-liked)
    - [P045-jump game 2](https://leetcode.cn/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-100-liked)
