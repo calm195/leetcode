@@ -15,8 +15,12 @@
     <file url="file://$PROJECT_DIR$/P055A045-jump_game/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P073-set_matrix_zeroes/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P073-set_matrix_zeroes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P075-sort_colors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P075-sort_colors/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P080-remove_duplicates/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P080-remove_duplicates/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P098-validate_binary_search_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P098-validate_binary_search_tree/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P121A122-max_profit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P121A122-max_profit/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P128-longest_consecutive_sequence/src/main/java" charset="UTF-8" />
@@ -29,10 +33,22 @@
     <file url="file://$PROJECT_DIR$/P136-single_number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P137-single_number2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P137-single_number2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P169-majority_element/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P169-majority_element/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P189-rotate_array/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P189-rotate_array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P200-number_of_island/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P200-number_of_island/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P207-course_schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P207-course_schedule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P208-implement_trie_prefix_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P208-implement_trie_prefix_tree/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P238-product_except_self/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P238-product_except_self/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P239-sliding_window_maximum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P239-sliding_window_maximum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P2516-take_k_chars/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P2516-take_k_chars/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P260-single_number3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P260-single_number3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P274-h_index/src/main/java" charset="UTF-8" />
@@ -45,6 +61,10 @@
     <file url="file://$PROJECT_DIR$/P438-find_all_a_anagrams_in_a_string/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P560-subarray_sum_equals_k/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P560-subarray_sum_equals_k/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P763-partition_labels/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P763-partition_labels/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P994-rotting_oranges/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P994-rotting_oranges/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
