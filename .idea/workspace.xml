@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="完成137, 启动260">
+      <change afterPath="$PROJECT_DIR$/P053-maximum_subarray/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P098-validate_binary_search_tree/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P098-validate_binary_search_tree/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,44 +80,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ContainerWithMostWater.executor": "Run",
-    "Application.FindAllAnagramsInAString.executor": "Run",
-    "Application.GroupAnagrams.executor": "Run",
-    "Application.LongestConsecutiveSequence.executor": "Run",
-    "Application.MoveZeros.executor": "Run",
-    "Application.RandomizedSet.executor": "Run",
-    "Application.SetMatrixZeroes.executor": "Run",
-    "Application.SingleNumber3.executor": "Run",
-    "Application.Solution (1).executor": "Run",
-    "Application.Solution (2).executor": "Run",
-    "Application.Solution (3).executor": "Run",
-    "Application.Solution (4).executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.SpiralMatrix.executor": "Debug",
-    "Application.SubArraySumEqualsK.executor": "Run",
-    "Application.ThreeSum.executor": "Run",
-    "Application.TrappingRainWater.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllAnagramsInAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomizedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetMatrixZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubArraySumEqualsK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ContainerWithMostWater">
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContainerWithMostWater" />
@@ -246,6 +248,8 @@
       <workItem from="1716423077294" duration="2542000" />
       <workItem from="1727431031295" duration="273000" />
       <workItem from="1727431419466" duration="2091000" />
+      <workItem from="1727433590087" duration="991000" />
+      <workItem from="1727489155504" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />
