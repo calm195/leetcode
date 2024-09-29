@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706cfe3b-5229-44a6-b3ee-ac2bbe2eeef0" name="Changes" comment="完成137, 启动260">
-      <change afterPath="$PROJECT_DIR$/P2073-time_to_buy_tickets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P056-merge_intervals/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +248,7 @@
       <workItem from="1727431419466" duration="2091000" />
       <workItem from="1727433590087" duration="991000" />
       <workItem from="1727489155504" duration="1332000" />
-      <workItem from="1727585281433" duration="662000" />
+      <workItem from="1727585281433" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />

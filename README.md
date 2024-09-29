@@ -10,6 +10,7 @@
    - [P189-rotate array](https://leetcode.cn/problems/rotate-array/description/?envType=study-plan-v2&envId=top-100-liked)
    - [P238-product of array except self](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)
    - [P2073-time needed to buy tickets](https://leetcode-cn.com/problems/time-needed-to-buy-tickets/description/)
+   - [P056-merge intervals](https://leetcode.cn/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-100-liked)
 2. 链表类
 3. String类
    - [P049-group anagrams](https://leetcode.cn/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-100-liked)
