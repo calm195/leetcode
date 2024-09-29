@@ -42,6 +42,7 @@
         <module>P098-validate_binary_search_tree</module>
         <module>P2516-take_k_chars</module>
         <module>P053-maximum_subarray</module>
+        <module>P2073-time_to_buy_tickets</module>
     </modules>
 
     <properties>
