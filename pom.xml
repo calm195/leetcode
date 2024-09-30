@@ -44,6 +44,7 @@
         <module>P053-maximum_subarray</module>
         <module>P2073-time_to_buy_tickets</module>
         <module>P056-merge_intervals</module>
+        <module>P1845-seat_reservation_manager</module>
     </modules>
 
     <properties>
