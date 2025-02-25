@@ -46,6 +46,7 @@
         <module>P056-merge_intervals</module>
         <module>P1845-seat_reservation_manager</module>
         <module>P2502-design_memory_allocator</module>
+        <module>P198-house_robber</module>
     </modules>
 
     <properties>
