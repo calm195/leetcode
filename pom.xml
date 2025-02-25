@@ -45,6 +45,7 @@
         <module>P2073-time_to_buy_tickets</module>
         <module>P056-merge_intervals</module>
         <module>P1845-seat_reservation_manager</module>
+        <module>P2502-design_memory_allocator</module>
     </modules>
 
     <properties>
