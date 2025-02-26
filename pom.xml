@@ -49,6 +49,7 @@
         <module>P198-house_robber</module>
         <module>P076-min_window_substring</module>
         <module>P041-first_missing_positive</module>
+        <module>P240-search_2d_matrix_2</module>
     </modules>
 
     <properties>
