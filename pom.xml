@@ -48,6 +48,7 @@
         <module>P2502-design_memory_allocator</module>
         <module>P198-house_robber</module>
         <module>P076-min_window_substring</module>
+        <module>P041-first_missing_positive</module>
     </modules>
 
     <properties>
