@@ -52,6 +52,7 @@
         <module>P240-search_2d_matrix_2</module>
         <module>P048-rotate_image</module>
         <module>demo</module>
+        <module>P160-intersection_two_linkedlist</module>
     </modules>
 
     <properties>
