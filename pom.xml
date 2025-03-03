@@ -56,6 +56,7 @@
         <module>P1278-palindrome_partition_3</module>
         <module>P230-kth_in_bst</module>
         <module>P046-permutations</module>
+        <module>P155-min_stack</module>
     </modules>
 
     <properties>
