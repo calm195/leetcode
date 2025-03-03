@@ -54,6 +54,7 @@
         <module>demo</module>
         <module>P160-intersection_two_linkedlist</module>
         <module>P1278-palindrome_partition_3</module>
+        <module>P230-kth_in_bst</module>
     </modules>
 
     <properties>
