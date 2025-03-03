@@ -58,6 +58,7 @@
         <module>P046-permutations</module>
         <module>P155-min_stack</module>
         <module>P739-daily_temperatures</module>
+        <module>P347-top_k_frequent</module>
     </modules>
 
     <properties>
