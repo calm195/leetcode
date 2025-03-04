@@ -60,6 +60,7 @@
         <module>P739-daily_temperatures</module>
         <module>P347-top_k_frequent</module>
         <module>P1745-palindrome_partitioning_4</module>
+        <module>P062-unique_paths</module>
     </modules>
 
     <properties>
