@@ -62,6 +62,7 @@
         <module>P1745-palindrome_partitioning_4</module>
         <module>P062-unique_paths</module>
         <module>P1328-break_palindrome</module>
+        <module>P031-next_permutation</module>
     </modules>
 
     <properties>
