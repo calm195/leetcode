@@ -63,6 +63,7 @@
         <module>P062-unique_paths</module>
         <module>P1328-break_palindrome</module>
         <module>P031-next_permutation</module>
+        <module>P2597-number_of_beautiful_subsets</module>
     </modules>
 
     <properties>
