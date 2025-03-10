@@ -64,6 +64,7 @@
         <module>P1328-break_palindrome</module>
         <module>P031-next_permutation</module>
         <module>P2597-number_of_beautiful_subsets</module>
+        <module>P2269-k_beauty_of_number</module>
     </modules>
 
     <properties>
