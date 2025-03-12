@@ -3,7 +3,7 @@ package org.example;
  * @Author: chrissy wx2048@protonmail.com
  * @Date: 2025-03-10 21:12:03
  * @LastEditors: chrissy wx2048@protonmail.com
- * @LastEditTime: 2025-03-11 00:25:34
+ * @LastEditTime: 2025-03-12 14:13:01
  * @Description: to be added
     The k-beauty of an integer num is defined as the number of substrings of num when it is read as a string that meet the following conditions:
 

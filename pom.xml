@@ -66,6 +66,7 @@
         <module>P2597-number_of_beautiful_subsets</module>
         <module>P2269-k_beauty_of_number</module>
         <module>P2012-sum_of_beauty</module>
+        <module>P3305-count_substring_vowel</module>
     </modules>
 
     <properties>
