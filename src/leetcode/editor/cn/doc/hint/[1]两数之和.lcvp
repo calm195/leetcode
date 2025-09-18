@@ -1,0 +1,56 @@
+<div>
+ <details>
+  <summary>Similar Questions</summary>
+  <div>
+   <li>3Sum <b>Medium</b></li>
+   <li>4Sum <b>Medium</b></li>
+   <li>Two Sum II - Input Array Is Sorted <b>Medium</b></li>
+   <li>Two Sum III - Data structure design <b>Easy</b></li>
+   <li>Subarray Sum Equals K <b>Medium</b></li>
+   <li>Two Sum IV - Input is a BST <b>Easy</b></li>
+   <li>Two Sum Less Than K <b>Easy</b></li>
+   <li>Max Number of K-Sum Pairs <b>Medium</b></li>
+   <li>Count Good Meals <b>Medium</b></li>
+   <li>Count Number of Pairs With Absolute Difference K <b>Easy</b></li>
+   <li>Number of Pairs of Strings With Concatenation Equal to Target <b>Medium</b></li>
+   <li>Find All K-Distant Indices in an Array <b>Easy</b></li>
+   <li>First Letter to Appear Twice <b>Easy</b></li>
+   <li>Number of Excellent Pairs <b>Hard</b></li>
+   <li>Number of Arithmetic Triplets <b>Easy</b></li>
+   <li>Node With Highest Edge Score <b>Medium</b></li>
+   <li>Check Distances Between Same Letters <b>Easy</b></li>
+   <li>Find Subarrays With Equal Sum <b>Easy</b></li>
+   <li>Largest Positive Integer That Exists With Its Negative <b>Easy</b></li>
+   <li>Number of Distinct Averages <b>Easy</b></li>
+   <li>Count Pairs Whose Sum is Less than Target <b>Easy</b></li>
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 1</summary>
+  <div>
+   A really brute force way would be to search for all possible pairs of numbers but that would be too slow. Again, it's best to try out brute force solutions just for completeness. It is from these brute force solutions that you can come up with optimizations.
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 2</summary>
+  <div>
+   So, if we fix one of the numbers, say 
+   <code>x</code>, we have to scan the entire array to find the next number 
+   <code>y</code> which is 
+   <code>value - x</code> where value is the input parameter. Can we change our array somehow so that this search becomes faster?
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 3</summary>
+  <div>
+   The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+  </div>
+ </details>
+</div>
+
