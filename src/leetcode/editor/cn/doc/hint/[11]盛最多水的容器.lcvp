@@ -1,0 +1,35 @@
+<div>
+ <details>
+  <summary>Similar Questions</summary>
+  <div>
+   <li>Trapping Rain Water <b>Hard</b></li>
+   <li>Maximum Tastiness of Candy Basket <b>Medium</b></li>
+   <li>House Robber IV <b>Medium</b></li>
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 1</summary>
+  <div>
+   If you simulate the problem, it will be O(n^2) which is not efficient.
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 2</summary>
+  <div>
+   Try to use two-pointers. Set one pointer to the left and one to the right of the array. Always move the pointer that points to the lower line.
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 3</summary>
+  <div>
+   How can you calculate the amount of water at each step?
+  </div>
+ </details>
+</div>
+
