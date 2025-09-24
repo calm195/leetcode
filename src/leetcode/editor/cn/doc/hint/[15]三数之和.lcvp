@@ -1,0 +1,39 @@
+<div>
+ <details>
+  <summary>Similar Questions</summary>
+  <div>
+   <li>Two Sum <b>Easy</b></li>
+   <li>3Sum Closest <b>Medium</b></li>
+   <li>4Sum <b>Medium</b></li>
+   <li>3Sum Smaller <b>Medium</b></li>
+   <li>Number of Arithmetic Triplets <b>Easy</b></li>
+   <li>Minimum Sum of Mountain Triplets I <b>Easy</b></li>
+   <li>Minimum Sum of Mountain Triplets II <b>Medium</b></li>
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 1</summary>
+  <div>
+   So, we essentially need to find three numbers x, y, and z such that they add up to the given value. If we fix one of the numbers say x, we are left with the two-sum problem at hand!
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 2</summary>
+  <div>
+   For the two-sum problem, if we fix one of the numbers, say x, we have to scan the entire array to find the next number y, which is value - x where value is the input parameter. Can we change our array somehow so that this search becomes faster?
+  </div>
+ </details>
+</div>
+<div>
+ <details>
+  <summary>Hint 3</summary>
+  <div>
+   The second train of thought for two-sum is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+  </div>
+ </details>
+</div>
+
