@@ -1,0 +1,93 @@
+本文阅读大约需要 2 min
+
+### 解题思路
+
+题目中给了一个数组 nums, 对于 nums 中的数字, 你可以选择 `拿(删除)` 或者 `不拿`.
+有一个限制条件, 如果你拿了 nums[i] 这个点数, 那么你就**不可以**拿 nums[i] - 1 和 nums[i] + 1 了.
+求能获得的最大点数.
+
+* 一上来, 这道题目比较"绕"的地方是 **拿了 nums[i] 就不可以拿 nums[i] - 1 和 nums[i] + 1**.
+  数组里会有重复的 nums[i], 算起来麻烦, 可以创建一个 Hashmap, 存储 nums[i] 出现的次数.
+  `如 nums = [2, 2, 2, 4]. 则 Hashmap numsMap为 { 2: 3, 4: 1}`. 来简化问题.
+
+* 其次, 可以化繁为简, 从小到大去找nums中的数字, 决定每个数字 `拿` 还是 `不拿`, **而不是从一堆无序的数字中去寻找答案**. 找到 nums 中的最大的数字, 作为数组 dp 的长度, 并将数组全部赋值为 0.
+
+### 动态规划
+
+#### 定义
+
+dp[i] 为 小于等于 i 的点数, 通过特殊操作(删或不删)所能获得到的最大值.
+
+#### 状态转移:
+
+从 index = 2 开始去寻找答案. 当 index = i 的时候, 有
+$dp[i] = max(dp[i-1], dp[i-2] + i * numsMap[i])$
+
+#### 边界初始化:
+
+1. dp[0] = 0, 一个都没有拿就是为 0
+2. dp[1] = 1 * 1出现的次数 (拿 1 的总和)
+
+#### 详细:
+
+1. 对于 i 来说. 我们可以有 获取 i 或者不获取两种状态
+2. 如果选择 i 的话, $dp[i-2] + i * numsMap[i]$. dp[i-2] 的值加上 **当前 i 出现的总和** = i 出现的次数 numsMap[i] 乘以 i 的值.(因为 i-1 被限制了不可以拿)
+3. 如果不选择 i 的话, 那就直接把 dp[i-1] 的结果当做当前 i 的值
+4. 最后贪心地选择 2, 3 的最大值
+
+![Screen Shot 2021-05-05 at 11.21.57 AM.png](https://pic.leetcode.cn/1620184941-FwPyKX-Screen%20Shot%202021-05-05%20at%2011.21.57%20AM.png)
+
+通过上面的步步简化, 问题化繁为简,  **拿了 nums[i] 就不可以拿 nums[i-1] 和 nums[i+1]** 化简为当前这个数字 i , 和前一个数字选择哪个的问题, 至于 i+1这个数字, 不需要去考虑, 因为从前往后找的过程中始终都没有去加 i+1.
+如此一来, 既满足了条件 又计算了最大值. 最终最大值落在dp[-1].
+
+### 代码
+
+* python
+
+```python
+import collections
+class Solution:
+    def deleteAndEarn(self, nums: List[int]) -> int:
+        # 创建 nums中的值出现的次数 mapping. Key 为 nums[i], value 为 nums[i] 出现的次数
+        numsMap = collections.Counter(nums)
+
+        # nums 的最大的数字
+        maxLen = max(numsMap.keys())
+        # dp 数组从 1 开始计算, 0 空出来
+        dp = [0] * (maxLen + 1)
+
+        # 1 出现的次数之和
+        dp[1] = 1 * numsMap[1]
+
+        for i in range(2, maxLen + 1):
+            dp[i] = max(dp[i-1], dp[i-2] + i * numsMap[i])
+        return dp[-1]
+```
+
+由于数组 dp 其实一直都只用到 dp[i-1], dp[i-2]的缓存, 因此可以用两个变量来代替数组 dp. 代码如下
+
+* python
+
+```python
+import collections
+class Solution:
+    def deleteAndEarn(self, nums: List[int]) -> int:
+        numsMap = collections.Counter(nums)
+        maxLen = max(numsMap.keys())
+        dp = [0] * (maxLen + 1)
+
+        dp[1] = 1 * numsMap[1]
+
+        first, second = 0, 1 * numsMap[1]
+
+        for i in range(2, maxLen + 1):
+            first, second = second, max(second, first + i * numsMap[i])
+            # dp[i] = max(dp[i-1], dp[i-2] + i * numsMap[i])
+        return second
+```
+
+### 写在最后
+
+如果解题对你有帮助, 希望可以获得你宝贵的一个赞 👍, 收藏 🧡, 或者留言 💌
+还可以关注 [@程序猿赤小豆](/u/niconiconi-12/), 为你带来更多容易理解的解题, 快速搞定算法! offer 多多!
+
