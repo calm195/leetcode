@@ -147,6 +147,18 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/T001722_MinimizeHammingDistanceAfterSwapOperations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[1722]执行交换操作后的最小汉明距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1722" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/T001722_MinimizeHammingDistanceAfterSwapOperations.java" />
+              <option name="titleSlug" value="minimize-hamming-distance-after-swap-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java">
           <value>
             <LeetcodeEditor>
