@@ -159,6 +159,18 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/T001137_NThTribonacciNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[1137]第 N 个泰波那契数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1137" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/T001137_NThTribonacciNumber.java" />
+              <option name="titleSlug" value="n-th-tribonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/T001207_UniqueNumberOfOccurrences.java">
           <value>
             <LeetcodeEditor>
