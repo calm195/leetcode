@@ -111,6 +111,18 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/T000070_ClimbingStairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[70]爬楼梯.md" />
+              <option name="frontendQuestionId" value="leetcode.cn70" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/T000070_ClimbingStairs.java" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/T000128_LongestConsecutiveSequence.java">
           <value>
             <LeetcodeEditor>
